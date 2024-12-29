@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735455116 source:c:\users\alifr\documents\coolyeah telkom\semester 3\struktur data\praktikum\tugas besar aka\source.cpp
+	"Header.h"
+	<iostream>
+
+1735454472 c:\users\alifr\documents\coolyeah telkom\semester 3\struktur data\praktikum\tugas besar aka\header.h
+
+1735462672 source:c:\users\alifr\documents\coolyeah telkom\semester 3\struktur data\praktikum\tugas besar aka\main.cpp
+	"Header.h"
+	<iostream>
+
